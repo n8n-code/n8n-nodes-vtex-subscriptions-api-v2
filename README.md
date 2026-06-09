@@ -55,10 +55,10 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Subscriptions | GET Retrieve customer's subscriptions, GET Get Subscription List, GET Retrieve subscription by ID, PATCH Update Subscriptions by SubscriptionId, POST Insert Addresses for Subscription, PATCH Cancel Subscriptions by SubscriptionId, GET Get frequency options by subscriptionId |
-| Subscription Group | GET List All subscription groups, GET Get subscription group list, GET Get Next purchase, GET Get Simulation by subscription-group, GET Get Subscription by groupId, PATCH Update Subscription by groupId, POST Add Subscription item by groupId, GET Get addresses by groupId, POST Insert Addresses by groupId, PATCH Cancel Subscription by groupId, GET List Subscription group's Configuration, GET Get Conversation Message by groupId, GET Get frequency options by groupId, GET Get payment System by groupId, GET List 'Will create' by groupId, POST Retry subscription by groupId |
-| Report | GET Get report status by ID, GET Retrieve Subscription report by date, GET Retrieve Subscription report by Status, GET Retrieve Subscription report by order date, GET Retrieve Subscription report by schedule, GET Request report by update |
-| Settings | GET Get Subscriptions Settings, POST Edit Subscriptions settings |
+| Subscriptions | Get retrieve customers subscriptions, Get subscription list, Get retrieve subscription by id, Patch update subscriptions by subscriptionid, Post insert addresses for subscription, Patch cancel subscriptions by subscriptionid, Get frequency options by subscriptionid |
+| Subscription Group | Get list all subscription groups, Get subscription group list, Get next purchase, Get simulation by subscriptiongroup, Get subscription by groupid, Patch update subscription by groupid, Post add subscription item by groupid, Get addresses by groupid, Post insert addresses by groupid, Patch cancel subscription by groupid, Get list subscription groups configuration, Get conversation message by groupid, Get frequency options by groupid, Get payment system by groupid, Get list will create by groupid, Post retry subscription by groupid |
+| Report | Get report status by id, Get retrieve subscription report by date, Get retrieve subscription report by status, Get retrieve subscription report by order date, Get retrieve subscription report by schedule, Get request report by update |
+| Settings | Get subscriptions settings, Post edit subscriptions settings |
 
 ---
 
